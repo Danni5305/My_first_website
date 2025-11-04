@@ -87,6 +87,9 @@
  }
  /* header */
  header .mobile-header {
+display: flex;
+align-items: center;
+justify-content: space-between;
    padding: 16px;
  }
 
@@ -207,4 +210,9 @@
    width: 40px;
    height: 40px;
  }
- git status
+         display: flex;
+        flex-direction: column;  
+        flex-direction: column;
+       justify-content: center; 
+        align-items: center;  
+
